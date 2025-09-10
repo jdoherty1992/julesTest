@@ -1,0 +1,22 @@
+{
+  "name": "jules-link-tester",
+  "version": "1.0.0",
+  "description": "A simple, single-file solution for testing links and URLs",
+  "main": "link-test.js",
+  "scripts": {
+    "test": "node link-test.js",
+    "start": "node link-test.js"
+  },
+  "keywords": [
+    "link-testing",
+    "url-testing",
+    "http-testing",
+    "website-testing",
+    "jules"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
